@@ -1,6 +1,6 @@
 class Person 
-  def talk(self)
+  def talk
     puts "Hello World!"
-  def walk(self)
+  def walk
     puts "The Person is walking"
 end
